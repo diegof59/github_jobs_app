@@ -29,8 +29,6 @@ module.exports = {
     })
   ],
   devServer: {
-    host: '0.0.0.0',
-    disableHostCheck: true, // To develop from cloud
     port: 9000,
   },
   devtool: 'source-eval-map'

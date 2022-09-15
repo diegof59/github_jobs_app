@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/diegof95/github_jobs_app.git"
+    "url": "git+https://github.com/diegof59/github_jobs_app.git"
   },
-  "author": "diegof95",
+  "author": "diegof59",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/diegof95/github_jobs_app/issues"
+    "url": "https://github.com/diegof59/github_jobs_app/issues"
   },
-  "homepage": "https://github.com/diegof95/github_jobs_app#readme",
+  "homepage": "https://github.com/diegof59/github_jobs_app#readme",
   "dependencies": {
     "axios": "^0.19.2",
     "html-react-parser": "^0.13.0",
